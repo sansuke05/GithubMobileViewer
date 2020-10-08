@@ -1,4 +1,4 @@
-package com.alicelab.githubmobileviewer.activities
+package com.alicelab.githubmobileviewer.activity
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
